@@ -1,0 +1,28 @@
+{
+    "ERROR_CODES": [
+        {
+            "TITLE": "Microsoft Windows",
+            "TEXT": "Error: Error: Keyboard not found. Press F1 to continue."
+        },
+        {
+            "TITLE": "Microsoft Windows",
+            "TEXT":  "Error: PEBKAC - Problem Exists Between Keyboard And Chair."
+        },
+        {
+            "TITLE": "Microsoft Windows",
+            "TEXT":  "Error: Problem with the solar panels. Please replace the sun."
+        },
+        {
+            "TITLE": "Microsoft Windows",
+            "TEXT": "Error: Your password must contain at least one positive integer, but it can't be yours."
+        },
+        {
+            "TITLE": "Microsoft Windows",
+            "TEXT": "Error: Windows ran into a problem that it couldn't handle, so it went for a coffee break."
+        },
+        {
+            "TITLE": "Microsoft Windows",
+            "TEXT": "Error: Insufficient witty comments. Aborting..."
+        }
+    ]
+}
